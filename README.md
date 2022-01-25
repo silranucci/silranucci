@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- eyes I’m interested in backend development
-
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning PHP
-
 - 📫 How to reach me: silranucci@gmail.com
