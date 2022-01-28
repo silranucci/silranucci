@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP and JavaScript
 - 📫 How to reach me: silranucci@gmail.com
